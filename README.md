@@ -172,6 +172,17 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Location - Lebanon
 
 
+### Israel
+
+##### Britt Barak
+- Facebook - www.facebook.com/britt.barak
+- [@BrittBarak](https://twitter.com/BrittBarak)
+- Medium: https://medium.com/@britt.barak
+- LinkedIn: https://www.linkedin.com/in/brittbarak
+- Topics - Android (developement, OS, UX), Communities.
+- Location - Tel Aviv, Israel
+
+
 ## Women Tech Organizers
 #### Example Format
 ##### Full Name (First, Last)
@@ -192,6 +203,14 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 ### Mexico
 
 ### Europe
+##### Britt Barak
+- Facebook - www.facebook.com/britt.barak
+- [@BrittBarak](https://twitter.com/BrittBarak)
+- [Android Academy TLV](https://www.facebook.com/groups/android.academy.ils), Tel Aviv, Israel
+- Group Focus - Android development (beginners, professionals), Android UX
+- [Women Techmakers Israel](https://www.facebook.com/wtmil/), Tel Aviv, Israel
+- Group Focus - Public speaking, soft skills, WLB, AI, ML, DL.
+
 
 ### India
 
